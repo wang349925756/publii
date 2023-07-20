@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MyDoc</title>
+    <link href="https://wang349925756.github.io/publii/feed.xml" rel="self" />
+    <link href="https://wang349925756.github.io/publii" />
+    <updated>2023-07-20T00:21:26+08:00</updated>
+    <author>
+        <name>xyz349925756</name>
+    </author>
+    <id>https://wang349925756.github.io/publii</id>
+
+    <entry>
+        <title>warp+ 翻墙</title>
+        <author>
+            <name>xyz349925756</name>
+        </author>
+        <link href="https://wang349925756.github.io/publii/warp-fan-qiang-2/"/>
+        <id>https://wang349925756.github.io/publii/warp-fan-qiang-2/</id>
+
+        <updated>2023-07-20T00:21:26+08:00</updated>
+            <summary>
+                <![CDATA[
+                    准备工作 来源:https://www.kjgx.eu.org/2023/07/warpvpnioswarpwindow-ioswarp_53.html sing-box 配置格式 { "interface_name": "WARP", "local_address": [ "172.16.0.2/32", "2606:4700:110:8f0a:fcdb:db2f:3b3:4d49/128" ], "mtu": 1408, "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "private_key": "GAl2z55U2UzNU5FG+LW3kowK+BA/WGMi1dWYwx20pWk=", "server": "engage.cloudflareclient.com", "server_port": 2408, "system_interface": false, "tag": "proxy", "type": "wireguard" } 这里也可以领取:https://replit.com/@ygkkkk?tab=repls 打开wireguard软件 这个时候就可以看到下面的画面. 此时需要使用到上面表格中配置文件生成连接 https://replit.com/@misaka-blog/wgcf-profile-generator 这里等待环境加载 正常情况这个密钥需要到电报群取获取.目前使用下面连接获取 https://replit.com/@misaka-blog/warp-key-generator 一样的点击运行 074v2DVR-i7TJ298c-F82Iu71B L26YH03g-3567NLyB-C7V630PU 64h23RIE-Pz8E123G-c57eDd90 H81v2j6L-5Dh20W4F-65liZ8t2 569pA7VS-Z263J8as-CD06K9E1 u0S43zv7-p0E1iv82-Z35f7x8y 随便选择一个粘贴到刚才的页面,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="md-end-block md-heading md-focus"><span class="md-plain">准备工作</span></h2>
+<p class="md-end-block md-p"><span class="md-plain">来源:</span><span class="md-link md-pair-s" spellcheck="false"><a href="https://www.kjgx.eu.org/2023/07/warpvpnioswarpwindow-ioswarp_53.html">https://www.kjgx.eu.org/2023/07/warpvpnioswarpwindow-ioswarp_53.html</a></span></p>
+<figure class="md-table-fig table-figure">
+<table class="md-table">
+<thead>
+<tr class="md-end-block">
+<th><span class="td-span"><span class="md-plain">软件</span></span></th>
+<th><span class="td-span"><span class="md-plain">官网</span></span></th>
+<th><span class="td-span"><span class="md-plain">说明</span></span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">wireguard</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://www.wireguard.com/">https://www.wireguard.com/</a></span></span></td>
+<td><span class="td-span"><span class="md-plain">VPN</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">优选IP软件</span></span></td>
+<td><span class="td-span"><span class="md-plain">暂无</span></span></td>
+<td> </td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">免费领取流量密钥</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@misaka-blog/warp-key-generator">https://replit.com/@misaka-blog/warp-key-generator</a></span> <span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@zzzhhh11/YouTube-Ke-Ji-Gong-Xiang-warp-key-generator?v=1">https://replit.com/@zzzhhh11/YouTube-Ke-Ji-Gong-Xiang-warp-key-generator?v=1</a></span></span></td>
+<td><span class="td-span"><span class="md-plain">原始和fork</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">wireguard生成配置文件</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@zzzhhh11/YouTube-Ke-Ji-Gong-Xiang-wgcf-profile-generator?v=1">https://replit.com/@zzzhhh11/YouTube-Ke-Ji-Gong-Xiang-wgcf-profile-generator?v=1</a></span> <span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@misaka-blog/wgcf-profile-generator">https://replit.com/@misaka-blog/wgcf-profile-generator</a></span></span></td>
+<td> </td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">分流</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://github.com/zzzhhh1/auto-add-routes">https://github.com/zzzhhh1/auto-add-routes</a></span></span></td>
+<td><span class="td-span"><span class="md-plain">开源软件</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">流量分流检查</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://ip.skk.moe/">https://ip.skk.moe/</a></span></span></td>
+<td> </td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">nekoray</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://github.com/MatsuriDayo/nekoray">https://github.com/MatsuriDayo/nekoray</a></span></span></td>
+<td><span class="td-span"><span class="md-plain">windows</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">NekoBoxForAndroid</span></span></td>
+<td><span class="td-span"><span class="md-link md-pair-s" spellcheck="false"><a href="https://github.com/MatsuriDayo/NekoBoxForAndroid">https://github.com/MatsuriDayo/NekoBoxForAndroid</a></span></span></td>
+<td><span class="td-span"><span class="md-plain">android</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p class="md-end-block md-p"><span class="md-plain">sing-box 配置格式</span></p>
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" lang="json" spellcheck="false"><span role="presentation">{</span><br><span role="presentation">    <span class="cm-string cm-property">"interface_name"</span>: <span class="cm-string">"WARP"</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"local_address"</span>: [</span><br><span role="presentation">        <span class="cm-string">"172.16.0.2/32"</span>,</span><br><span role="presentation">        <span class="cm-string">"2606:4700:110:8f0a:fcdb:db2f:3b3:4d49/128"</span></span><br><span role="presentation">    ],</span><br><span role="presentation">    <span class="cm-string cm-property">"mtu"</span>: <span class="cm-number">1408</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"peer_public_key"</span>: <span class="cm-string">"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"private_key"</span>: <span class="cm-string">"GAl2z55U2UzNU5FG+LW3kowK+BA/WGMi1dWYwx20pWk="</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"server"</span>: <span class="cm-string">"engage.cloudflareclient.com"</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"server_port"</span>: <span class="cm-number">2408</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"system_interface"</span>: <span class="cm-atom">false</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"tag"</span>: <span class="cm-string">"proxy"</span>,</span><br><span role="presentation">    <span class="cm-string cm-property">"type"</span>: <span class="cm-string">"wireguard"</span></span><br><span role="presentation">}</span></pre>
+<p class="md-end-block md-p"><span class="md-plain">这里也可以领取:</span><span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@ygkkkk?tab=repls">https://replit.com/@ygkkkk?tab=repls</a></span></p>
+<h2 class="md-end-block md-heading"><span class="md-plain">步骤</span></h2>
+<p class="md-end-block md-p"><span class="md-plain">打开wireguard软件</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719100228408.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719100228408.png?lastModify=1689783382" alt="image-20230719100228408" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">这个时候就可以看到下面的画面.</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719100254404.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719100254404.png?lastModify=1689783382" alt="image-20230719100254404" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">此时需要使用到上面表格中配置文件生成连接</span></p>
+<p class="md-end-block md-p"><span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@misaka-blog/wgcf-profile-generator">https://replit.com/@misaka-blog/wgcf-profile-generator</a></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719100506144.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719100506144.png?lastModify=1689783382" alt="image-20230719100506144" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">这里等待环境加载</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719100617526.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719100617526.png?lastModify=1689783382" alt="image-20230719100617526" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719100732001.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719100732001.png?lastModify=1689783382" alt="image-20230719100732001" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">正常情况这个密钥需要到电报群取获取.目前使用下面连接获取</span></p>
+<p class="md-end-block md-p"><span class="md-link md-pair-s" spellcheck="false"><a href="https://replit.com/@misaka-blog/warp-key-generator">https://replit.com/@misaka-blog/warp-key-generator</a></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719100843969.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719100843969.png?lastModify=1689783382" alt="image-20230719100843969" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">一样的点击运行</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719101201469.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719101201469.png?lastModify=1689783382" alt="image-20230719101201469" data-is-external-image="true"></span></p>
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" lang="" spellcheck="false"><span role="presentation">074v2DVR-i7TJ298c-F82Iu71B</span><br><span role="presentation">L26YH03g-3567NLyB-C7V630PU</span><br><span role="presentation">64h23RIE-Pz8E123G-c57eDd90</span></pre>
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" lang="" spellcheck="false"><span role="presentation">H81v2j6L-5Dh20W4F-65liZ8t2</span><br><span role="presentation">569pA7VS-Z263J8as-CD06K9E1</span><br><span role="presentation">u0S43zv7-p0E1iv82-Z35f7x8y</span></pre>
+<p class="md-end-block md-p"><span class="md-plain">随便选择一个粘贴到刚才的页面,</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719101340881.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719101340881.png?lastModify=1689783382" alt="image-20230719101340881" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719101451653.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719101451653.png?lastModify=1689783382" alt="image-20230719101451653" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">名称随便输入</span></p>
+<p class="md-end-block md-p"><span class="md-plain">完成之后是</span></p>
+<p class="md-end-block md-p"><span class="md-plain">WGCF 的 WireGuard 配置文件已生成成功！</span> <span class="md-plain">下面是配置文件内容：</span></p>
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" lang="sh" spellcheck="false"><span role="presentation">[Interface]</span><br><span role="presentation">PrivateKey <span class="cm-operator">=</span> WIZtC<span class="cm-operator">+</span><span class="cm-def">IqaG3hmwnLAmNBcSFNCg06B8UhAzs05xGC6Fs</span><span class="cm-operator">=</span></span><br><span role="presentation">Address <span class="cm-operator">=</span> <span class="cm-number">172</span>.16.0.2/32</span><br><span role="presentation">Address <span class="cm-operator">=</span> <span class="cm-number">2606</span>:4700:110:892a:ed97:38c4:432f:c64b/128</span><br><span role="presentation">DNS <span class="cm-operator">=</span> <span class="cm-number">1</span>.1.1.1</span><br><span role="presentation">MTU <span class="cm-operator">=</span> <span class="cm-number">1280</span></span><br><span role="presentation">[Peer]</span><br><span role="presentation">PublicKey <span class="cm-operator">=</span> bmXOC<span class="cm-operator">+</span>F1FxEMF9dyiK2H5<span class="cm-def">/1SUtzH0JuVo51h2wPfgyo</span><span class="cm-operator">=</span></span><br><span role="presentation">AllowedIPs <span class="cm-operator">=</span> <span class="cm-number">0</span>.0.0.0/0</span><br><span role="presentation">AllowedIPs <span class="cm-operator">=</span> ::/0</span><br><span role="presentation">Endpoint <span class="cm-operator">=</span> engage.cloudflareclient.com:2408</span></pre>
+<p class="md-end-block md-p"><span class="md-plain">请在本地使用此方法：</span><span class="md-link md-pair-s" spellcheck="false"><a href="https://blog.misaka.rest/2023/03/12/cf-warp-yxip/">https://blog.misaka.rest/2023/03/12/cf-warp-yxip/</a></span><span class="md-plain"> 优选可用的 Endpoint IP</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719102527786.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719102527786.png?lastModify=1689783382" alt="image-20230719102527786" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">打开优选IP软件</span></p>
+<p class="md-end-block md-p"><span class="md-pair-s"><mark><span class="md-plain">必须关闭任何翻墙软件否则结果是错误的!</span></mark></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103051126.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103051126.png?lastModify=1689783382" alt="image-20230719103051126" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103137583.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103137583.png?lastModify=1689783382" alt="image-20230719103137583" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103150260.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103150260.png?lastModify=1689783382" alt="image-20230719103150260" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">打开这个文件</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103258217.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103258217.png?lastModify=1689783382" alt="image-20230719103258217" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">复制延时最小的</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103353416.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103353416.png?lastModify=1689783382" alt="image-20230719103353416" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">点击连接</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103443057.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103443057.png?lastModify=1689783382" alt="image-20230719103443057" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">打开YouTube找一个4K视频看看码流</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719103822044.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719103822044.png?lastModify=1689783382" alt="image-20230719103822044" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">我这会卡.应该是在深墙之中吧.</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719105311492.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719105311492.png?lastModify=1689783382" alt="image-20230719105311492" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">以后这里可以更换dns IP破服务器这些都可以的.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">这样就完成了翻墙</span></p>
+<h3 class="md-end-block md-heading"><span class="md-plain">分流</span></h3>
+<p class="md-end-block md-p"><span class="md-link md-pair-s" spellcheck="false"><a href="https://ip.skk.moe/">https://ip.skk.moe/</a></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719105908526.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719105908526.png?lastModify=1689783382" alt="image-20230719105908526" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">可以看到访问国内百度这邪恶很慢了...这个要怎么做呢?</span></p>
+<p class="md-end-block md-p"><span class="md-plain">打开</span><span class="md-link md-pair-s" spellcheck="false"><a href="https://github.com/zzzhhh1/auto-add-routes">https://github.com/zzzhhh1/auto-add-routes</a></span></p>
+<p class="md-end-block md-p"><span class="md-plain">下载到本地</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719110551942-1689735953150-1.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719110551942-1689735953150-1.png?lastModify=1689783382" alt="image-20230719110551942" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719110833730.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719110833730.png?lastModify=1689783382" alt="image-20230719110833730" data-is-external-image="true"></span></p>
+<h4 class="md-end-block md-heading"><span class="md-plain">使用方法</span></h4>
+<ol class="ol-list" start="">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">下载并安装最新版本的官方PC客户端。一般会安装在目录"C:\Program Files\WireGuard"</span></p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">开启Wireguard的Pre/Post命令支持，只能通过修改注册表的方式开启，具体操作：</span></p>
+</li>
+</ol>
+<ul class="ul-list" data-mark="-">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">以管理员身份运行cmd</span></p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">输入下面的命令</span></p>
+</li>
+</ul>
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" lang="powershell" spellcheck="false"><span role="presentation"><span class="cm-identifier">reg</span> <span class="cm-identifier">add</span> <span class="cm-identifier">HKLM</span><span class="cm-error">\</span><span class="cm-identifier">Software</span><span class="cm-error">\</span><span class="cm-identifier">WireGuard</span> <span class="cm-operator">/</span><span class="cm-identifier">v</span> <span class="cm-identifier">DangerousScriptExecution</span> <span class="cm-operator">/</span><span class="cm-identifier">t</span> <span class="cm-identifier">REG_DWORD</span> <span class="cm-operator">/</span><span class="cm-identifier">d</span> <span class="cm-number">1</span> <span class="cm-operator">/</span><span class="cm-identifier">f</span></span></pre>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719112046800.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719112046800.png?lastModify=1689783382" alt="image-20230719112046800" data-is-external-image="true"></span></p>
+<ol class="ol-list" start="3">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">下载好之后把 </span><span class="md-meta-i-c  md-link"><a href="file:///F:/%5CSoft%5Cwarp%5Cauto-add-routes%5Cwireguard"><span class="md-plain">wireguard</span></a></span><span class="md-plain"> 文件夹复制到 </span><span class="md-meta-i-c  md-link"><a href="file:///F:/%5CSoft%5Cwarp%5Cauto-add-routes%5Cwireguard"><span class="md-plain">wireguard</span></a></span><span class="md-plain"> 安装目录下.这里可以改个bat文件夹主要是方便后面设置路径,不改后面需要更改脚本配置.</span></p>
+</li>
+</ol>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719111503874.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719111503874.png?lastModify=1689783382" alt="image-20230719111503874" data-is-external-image="true"></span></p>
+<ol class="ol-list" start="4">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">修改Wireguard客户端配置文件，加入以下Script Hook调用"C:\Program Files\WireGuard\bat"的批处理文件</span></p>
+</li>
+</ol>
+<pre class="md-fences md-end-block ty-contain-cm modeLoaded" lang="powershell" spellcheck="false"><span role="presentation"><span class="cm-identifier">PreUp</span> <span class="cm-operator">=</span> <span class="cm-string">"C:\Program Files\WireGuard\bat\routes-up.bat"</span></span><br><span role="presentation"><span class="cm-identifier">PostUp</span> <span class="cm-operator">=</span> <span class="cm-string">"C:\Program Files\WireGuard\bat\dns-up.bat"</span></span><br><span role="presentation"><span class="cm-identifier">PreDown</span> <span class="cm-operator">=</span> <span class="cm-string">"C:\Program Files\WireGuard\bat\routes-down.bat"</span></span><br><span role="presentation"><span class="cm-identifier">PostDown</span> <span class="cm-operator">=</span> <span class="cm-string">"C:\Program Files\WireGuard\bat\dns-down.bat"</span></span></pre>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719112306591.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719112306591.png?lastModify=1689783382" alt="image-20230719112306591" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">将DNS指向本机以使用Overture作为DNS服务器</span></p>
+<blockquote>
+<p class="md-end-block md-p"><span class="md-plain">注意上面的dns 脚本路径,如果上面复制没有改过文件夹名字的这里就需要更改路径中的bat 为实际的文件夹名</span></p>
+<p class="md-end-block md-p"><span class="md-plain">关闭kill-switch</span></p>
+</blockquote>
+<ol class="ol-list" start="5">
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">如配置正确，此时点击连接Wireguard会⑴自动调用routes-up.bat将国内IP写进系统路由表，⑵启动overture DNS服务器</span></p>
+</li>
+</ol>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719112638837.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719112638837.png?lastModify=1689783382" alt="image-20230719112638837" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">可以看到有分流了</span></p>
+<p class="md-end-block md-p"><span class="md-plain">手机端分流可以借助茉莉</span></p>
+<h4 class="md-end-block md-heading"><span class="md-plain">借助茉莉分流</span></h4>
+<p class="md-end-block md-p"><span class="md-plain">效果不太好暂时不用.</span></p>
+<p class="md-end-block md-p"> </p>
+<p class="md-end-block md-p"> </p>
+<p class="md-end-block md-p"><span class="md-plain">现在的问题,怎么取选DNS? 怎么取选IP?</span></p>
+<h2 class="md-end-block md-heading"><span class="md-plain">优选IP</span></h2>
+<p class="md-end-block md-p"><span class="md-link md-pair-s" spellcheck="false"><a href="https://blog.misaka.rest/2023/03/12/cf-warp-yxip/">https://blog.misaka.rest/2023/03/12/cf-warp-yxip/</a></span></p>
+<p class="md-end-block md-p"><span class="md-plain">官网:</span><span class="md-link md-pair-s" spellcheck="false"><a href="https://1.1.1.1/">https://1.1.1.1/</a></span></p>
+<p class="md-end-block md-p"><span class="md-plain">下载安装完成之后在</span></p>
+<p class="md-end-block md-p"><span class="md-image md-img-loaded" data-src="warp+翻墙.assets/image-20230719162805444.png"><img loading="lazy" src="file:///E:/book/%E7%BD%91%E7%BB%9C%E5%8F%8A%E8%99%9A%E6%8B%9F%E5%8C%96/warp+%E7%BF%BB%E5%A2%99.assets/image-20230719162805444.png?lastModify=1689783382" alt="image-20230719162805444" data-is-external-image="true"></span></p>
+<p class="md-end-block md-p"><span class="md-plain">这里就可以使用提供的命令工具了</span></p>
+<p class="md-end-block md-p"> </p>
+<p class="md-end-block md-p"> </p>
+<p class="md-end-block md-p"> </p>
+<h2 class="md-end-block md-heading md-focus"><span class="md-plain md-expand">优选DNS</span></h2>
+            ]]>
+        </content>
+    </entry>
+</feed>
